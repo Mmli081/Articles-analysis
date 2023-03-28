@@ -1,0 +1,313 @@
+#Rank,University,Town,org_id
+1,University of Tehran,Tehran,3127243484376623607
+2,Sharif University of Technology,Tehran,14542101698899415237
+3,Tehran University of Medical Sciences,Tehran,16806557757143553874
+4,Shahid Beheshti University of Medical Sciences,Tehran,7030147968151678976
+5,Ferdowsi University of Mashhad,Mashhad,12493016978831566375
+6,Technical and Vocational University,Tehran,
+7,Amirkabir University of Technology,Tehran,6418904117290021063
+8,Shahid Beheshti University,Tehran,15042406923477825387
+9,Mashhad University of Medical Sciences,Mashhad,6640616956786447968
+10,University of Isfahan,Isfahan,16048729529843530171
+11,Tarbiat Modares University,Tehran,8940115736409083918
+12,Shiraz University,Shiraz,2556552084043272633
+13,Isfahan University of Technology,Isfahan,17344544716151183661
+14,University of Tabriz,Tabriz,14428066424092604829
+15,University of Applied Science and Technology,Tehran,
+16,Shiraz University of Medical Sciences,Shiraz,11788014889566764788
+17,Isfahan University of Medical Sciences,Isfahan,2891371915591475292
+18,Tabriz University of Medical Sciences,Tabriz,3726537592650218827
+19,Iran University of Science and Technology,Tehran,18274584746453458338
+20,Urmia University,Urmia,11229648184342419846
+21,Khaje Nasir Toosi University of Technology,Tehran,
+22,Arak University of Medical Sciences,Arak,8630340678838227589
+23,Shahid Chamran University of Ahvaz,Ahvaz,2172265900101186058
+24,Zanjan University,Zanjan,492329271921664765
+25,Allameh Tabataba'i University,Tehran,4248452890824939781
+26,Alzahra University,Tehran,8429044857029778316
+27,Mazandaran University of Medical Sciences,Sari,123058652017675668
+28,The University of Guilan,Rasht,1904950617553771163
+29,Semnan University,Semnan,2743681373219490768
+30,Shahrekord University,Shahrekord,15474434425651809868
+31,Institute for Research in Fundamental Sciences,Tehran,3027790348491532480
+32,University of Social Welfare and Rehabilitation Sciences,Tehran,13837467789225759103
+33,"Islamic Azad University, Science and Research of Fars",Shiraz,
+34,Medical University of Ilam,Ilam,
+35,Gilan University of Medical Sciences,Rasht,
+36,Yazd University,Yazd,656493994758795510
+37,University of Kashan,Kashan,2558623505348633080
+38,Kerman Medical University,Kerman,
+39,Hamadan University of Medical Sciences,Hamedan,9412876369637054720
+40,Bu-Ali Sina University,Hamedan,5532349484185403929
+41,Kashan University of Medical Sciences,Kashan,1087452456304517331
+42,Shahid Sadoughi University of Medical Sciences and Health Services,Yazd,
+43,Razi University,Kermanshah,17613625713821201096
+44,Shahrekord University of Medical Sciences,Shahrekord,17861849962503305031
+45,University of Sistan and Baluchestan,Zahedan,8593656828391654165
+46,Kermanshah University of Medical Sciences,Kermanshah,12610321687646651061
+47,Imam Khomeini International University,Qazvin,7951550630971603642
+48,Urmia University of Medical Sciences,Urmia,18361620498596064408
+49,Zanjan University of Medical Sciences,Zanjan,10060442908567568803
+50,University of Birjand,Birjand,7034247761522097697
+51,University of Kurdistan,Sanandaj,17196553094192944181
+52,Babol University of Medical Sciences,Babol,
+53,Semnan University of Medical Sciences,Semnan,
+54,Persian Gulf University,Bushehr,11399817105603052020
+55,Qazvin University of Medical Sciences,Qazvin,11807266865772798677
+56,Shahid Bahonar University of Kerman,Kerman,15225666499391297244
+57,Arak University,Arak,1567855438591683296
+58,Kharazmi University,Tehran,6837845571097102989
+59,Golestan University of Medical Sciences,Gorgan,6172992861431872499
+60,Sahand University of Technology,Sahand Town,10841710482435078797
+61,Imam Sadiq University,Tehran,
+62,Ardabil University of Medical Sciences,Ardabil,13120925696357431070
+63,Kurdistan University of Medical Sciences,Sanandaj,4334510025176802388
+64,Qom University of Medical Sciences,Qom,
+65,Ahvaz Jundishapur University of Medical Sciences,Ahvaz,2368880481777056914
+66,Hormozgan University of Medical Sciences,Bandar-Abbas,11393191297763211014
+67,Baqiyatallah Medical Sciences University,Tehran,
+68,Bushehr University of Medical Sciences,Bushehr,1143315953673944135
+69,Shahid Rajaee Teacher Training University,Tehran,16203159605847981030
+70,Lorestan University of Medical Sciences,Khorramabad,
+71,University of Mazandaran,Babolsar,4484516619146825843
+72,Shahrood University of Technology,Shahrood,4014172610688681300
+73,University of Mohaghegh Ardabili,Ardabil,17556002772160524817
+74,University of Qom,Qom,10266103383888998985
+75,Islamic Azad University Central Tehran Branch,Tehran,11259084590268948697
+76,University of Religions and Denominations,Qom,
+77,Institute for Advanced Studies in Basic Sciences,Zanjan,8426330014977884468
+78,Gorgan University of Agricultural Sciences and Natural Resources,Gorgan,5479859545565140152
+79,"Islamic Azad University, Tabriz",Tabriz,
+80,Ilam University,Ilam,3694657872196761765
+81,Petroleum University of Technology,Tehran,8724586382430943329
+82,Shahed University,Tehran,14351137094589763206
+83,Yasuj University of Medical Sciences,Yasuj,6162218560520071901
+84,Azarbaijan Shahid Madani University,Tabriz,8890597192309872857
+85,Jahrom University of Medical Sciences,Jahrom,
+86,Shahroud University of Medical Sciences,Shahroud,427592029648007582
+87,"Islamic Azad University, Marvdasht",Marvdasht,
+88,Golestan University,Gorgan,1594052162741145675
+89,Babol Noshirvani University of Technology,Babol,197194739681069721
+90,Hakim Sabzevari University,Sabzevar,10398240993011656680
+91,Damghan University,Damghan,9097972473775046385
+92,ValiAsr University of Rafsanjan,Rafsanjan,
+93,"Islamic Azad University, Tehran Medical",Tehran,
+94,"Islamic Azad University, Qom",Qom,
+95,Zahedan University of Medical Sciences,Zahedan,
+96,Al Mustafa International University,Qom,
+97,Islamic Azad University of Mashhad,Mashhad,
+98,Fasa University of Medical Sciences,Fasa,
+99,Birjand University of Medical Sciences,Birjand,3797051023224508347
+100,Tabriz Islamic Art University,Tabriz,
+101,Zabol University of Medical Sciences,Zabol,
+102,"Islamic Azad University, Karaj Branch",Karaj,663038904462246373
+103,Rafsanjan University of Medical Sciences,Rafsanjan,1551619625988384845
+104,"Islamic Azad University Isfahan, Khorasgan Branch",Isfahan,
+105,Islamic Azad University of Arak,Arak,
+106,"Islamic Azad University, South Tehran",Tehran,
+107,Malek-Ashtar University of Technology,Isfahan,
+108,Gonabad University of Medical Sciences,Gonabad,5401173215803298599
+109,Lorestan University,Khorramabad,6620684009507364922
+110,University of Maragheh,Maragheh,15554168769052975369
+111,Yasuj University,Yasuj,
+112,North Khorasan University of Medical Sciences,Bojnord,
+113,Mofid University,Qom,
+114,University of Bonab,Bonab,
+115,Sadjad University of Technology,Mashhad,
+116,"Islamic Azad University, Rasht",Rasht,7545217101586204629
+117,Iran Polymer and Petrochemical Institute,Tehran,8239606758604261057
+118,Imam Khomeini Education and Research Institute,Qom,
+119,"Islamic Azad University, Bandar Abbas",Bandar-Abbas,
+120,Hormozgan University,Bandar-Abbas,10721615132423203903
+121,Imam Hossein University,Tehran,
+122,University of Zabol,Zabol,1827035364288082870
+123,"Islamic Azad University, Quchan",Quchan,
+124,University of Art,Tehran,
+125,Jundi-Shapur University of Technology,Dezful,
+126,Sari Agricultural Sciences and Natural Resources University,Sari,
+127,"Islamic Azad University, Gorgan",Gorgan,
+128,Malayer University,Malayer,18131744753367009436
+129,Imam Reza University,Mashhad,
+130,University of Bojnord,Bojnord,
+131,Shiraz University of Technology,Shiraz,12794722326796894872
+132,Urmia University of Technology,Urmia,14097902267779712169
+133,"Islamic Azad University, Shahr Rey",Shahr-e-Ray,
+134,"Islamic Azad University, Shiraz",Shiraz,
+135,Gonbad Kavous University,Gonbad-e Kavus,
+136,"Islamic Azad University, Qazvin",Qazvin,
+137,Sabzevar University of Medical Sciences,Sabzevar,
+138,"Islamic Azad University, Sabzevar",Sabzevar,
+139,Salman Farsi University of Kazerun,Kazerun,
+140,Ardakan University,Ardakan,9161180858282046579
+141,Qom University of Technology,Qom,693714768659580315
+142,"Islamic Azad University, Kerman",Kerman,
+143,Art University of Isfahan,Isfahan,
+144,University of Quran and Hadith,Rey,
+145,"Islamic Azad University, Semnan",Semnan,
+146,"Islamic Azad University, Shabestar",Shabestar,
+147,Dezful University of Medical Sciences and Health Services,Dezful,
+148,University of Jiroft,Jiroft,
+149,"Islamic Azad University, Yazd",Yazd,
+150,"Islamic Azad University, Kermanshah",Kermanshah,
+151,"Islamic Azad University, Saveh",Saveh,
+152,Higher Education Complex of Larestan,Lar,
+153,"Islamic Azad University, Maragheh",Maragheh,
+154,Sirjan University of Technology,Sirjan,
+155,"Islamic Azad University, Hamedan",Hamedan,
+156,Kermanshah University of Technology,Kermanshah,13528429044870125586
+157,Baqir al-olum University,Tehran,
+158,Fasa University,Fasa,
+159,Meybod University,Meybod,
+160,"Islamic Azad University, Khomeinishahr",Khomeinishahr,
+161,"Islamic Azad University, Ardabil",Ardabil,
+162,Velayat University,Iranshahr,
+163,"Islamic Azad University, Parand",Tehran,
+164,Khorramshahr Marine Science and Technology University,Khorramshahr,
+165,Islamic Azad University of Roudehen,Roodehen,
+166,Ayatollah Borujerdi University,Borujerd,
+167,Shomal University,Amol,
+168,"Islamic Azad University, Shahrood",Shahrood,
+169,"Islamic Azad University, Majlesi",Majlesi,
+170,Tafresh University,Tafresh,
+171,Arak University of Technology,Arak,
+172,Quchan University of Advanced Technology,Quchan,
+173,"Islamic Azad University, Zahedan",Zahedan,
+174,Hamadan University of Technology,Hamadan,
+175,Science and Arts University,Yazd,
+176,Islamic Azad University of Lahijan,Lahijan,
+177,"Islamic Azad University, Shahreza",Shahreza,
+178,University of Shahreza,Shahreza,
+179,Graduate University of Advanced Technology,Kerman,13516240938106875172
+180,University of Torbat-e-Heydarieh,Torbat-e-Heydarieh,
+181,"Islamic Azad University, Zanjan",Zanjan,
+182,"Islamic Azad University, Garmsar",Garmsar,
+183,"Islamic Azad University, Ahvaz",Ahvaz,
+184,"Islamic Azad University, Shoushtar",Shushtar,
+185,"Islamic Azad University, Mahabad",Mahabad,
+186,"Islamic Azad University, Tafresh",Tafresh,
+187,Sheikhbahaee University,Isfahan,
+188,"Islamic Azad University, Eslamshahr",Islamshahr,
+189,Khavaran Institute of Higher Education,Mashhad,
+190,International University of Chabahar,Chabahar,
+191,"Islamic Azad University, Shahr-e-Qods",Tehran,
+192,"Islamic Azad University, Birjand",Birjand,
+193,"Islamic Azad University, Sepidan",Sepidan,
+194,"Islamic Azad University, Mobarakeh",Mobarakeh,
+195,"Islamic Azad University, Ahar",Ahar,
+196,"Islamic Azad University, East Tehran",Tehran,
+197,Shiraz Art University,Shiraz,
+198,Chabahar Maritime University,Chabahar,
+199,Jahrom university,Jahrom,
+200,"Islamic Azad University, Sanandaj Branch",Sanandaj,
+201,"Islamic Azad University, Sari",Sari,
+202,Allameh Mohaddes Nouri University,Nur,
+203,"Islamic Azad University, Neyshabur",Neyshabur,
+204,"Islamic Azad University, Bonab",Bonab,
+205,"Islamic Azad University, Varamin",Varamin,
+206,"Islamic Azad University, Yasuj",Yasuj,
+207,School of International Relations,Tehran,
+208,Khuzestan Agricultural Sciences and Natural Resources University,Mollasani,
+209,"Islamic Azad University, Damghan",Damghan,
+210,"Islamic Azad University, Gonabad",Gonabad,
+211,"Islamic Azad University, Bushehr",Bushehr,
+212,"Islamic Azad University, Dehaghan",Dehaghan,
+213,"Islamic Azad University, Abhar",Abhar,
+214,"Islamic Azad University, Kashan",Kashan,
+215,Mazandaran University of Science and Technology,Babol,8757340477448911634
+216,Hazrat-e Masoumeh University,Qom,
+217,"Islamic Azad University, Estahban",Estahban,
+218,"Islamic Azad University, Naragh",Naragh,
+219,"Islamic Azad University, Arsanjan",Arsanjan,
+220,"Islamic Azad University, Firuzabad",Firuzabad,
+221,"Islamic Azad University, Astara",Astara,
+222,Islamic Azad University of Jahrom,Jahrom,
+223,"Islamic Azad University, Firoozkooh",Firoozkooh,
+224,Bam University,Bam,
+225,Higher Education Complex of Torbat-e-Jam,Torbat-e Jam,
+226,"Islamic Azad University, Naein",Naein,
+227,"Islamic Azad University, Tonekabon",Tonekabon,
+228,University of Science and Technology of Mazandaran,Behshahr,
+229,"Islamic Azad University, Kazeroon",Kazeroon,
+230,Islamic Azad University-Sarab Branch,Sarab,
+231,Islamic Azad University of Ilam,Ilam,
+232,Islamic Azad University of Bojnourd,Bojnord,
+233,"Islamic Azad University, Shirvan",Shirvan,
+234,Islamic Azad University of Urmia,Urmia,
+235,"Islamic Azad University, Miyaneh",Mianeh,
+236,Birjand University of Technology,Birjand,
+237,"Islamic Azad University, Khomain",Khomain,
+238,University of Neyshabur,Neyshabur,
+239,"Islamic Azad University, West Tehran",Tehran,
+240,"Islamic Azad University of Medical Sciences, Qeshm",Qeshm,
+241,"Islamic Azad University, Ayatollah Amoli",Amol,
+242,Behbahan Khatam Alanbia University of Technology,Behbahan,
+243,"Islamic Azad University, Darab",Darab,
+244,"Islamic Azad University, Mahshahr",Mahshahr,
+245,"Islamic Azad University, Omidiyeh",Omidiyeh,
+246,"Islamic Azad University, Dezful",Dezful,
+247,Sayyed Jamaleddin Asadabadi University,Asadabad,
+248,Kosar University of Bojnord,Bojnord,
+249,"Islamic Azad University, Bandar-e Anzali",Bandar-e Anzali,
+250,"Islamic Azad University, Eghlid",Eghlid,
+251,"Islamic Azad University, Gachsaran",Gachsaran,
+252,University of Gonabad,Gonabad,
+253,Engineering Higher Education Complex of Esfarayen,Esfarayen,
+254,"Islamic Azad University, Behshahr",Behshahr,
+255,"Islamic Azad University, Buin-Zahra",Buin-Zahra,
+256,"Islamic Azad University, Abadan",Abadan,
+257,"Islamic Azad University, Damavand",Damavand,
+258,"Islamic Azad University, Babol",Babol,
+258,Islamic Azad University of Fasa,Fasa,
+260,"Islamic Azad University, Ashtian",Ashtiyan,
+261,"Islamic Azad University, Larestan",Lar,
+262,"Islamic Azad University, Ashkezar",Ashkezar,
+263,"Islamic Azad University, Borujerd",Borujerd,
+264,"Islamic Azad University, Takestan",Takestan,
+265,"Islamic Azad University, Qaemshahr",Ghaemshahr,
+266,"Islamic Azad University, Sirjan",Sirjan,
+267,"Islamic Azad University, Mahdishahr",Mahdishahr,
+268,"Islamic Azad University, Azadshahr",Azadshahr,
+269,"Islamic Azad University, Nur",Nur,
+270,"Islamic Azad University, Khoy",Khoy,
+271,"Islamic Azad University, Maybod",Maybod,
+272,Higher Education Complex of Saravan,Saravan,
+273,Shohadaye Hoveizeh University of Technology,Susangerd,
+274,"Islamic Azad University, Esfarayen",Esfarayen,
+275,"Islamic Azad University, Masjed Soleyman",Masjid-i-Solieman,
+276,"Islamic Azad University, Hidaj",Hidaj,
+277,"Islamic Azad University, Behbahan",Behbahan,
+278,Islamic Azad University of Abadeh,Abadeh,
+279,Iran University of Industries and Mines,Tehran,
+280,Islamic Azad university Kashmar Branch,Kashmar,
+280,"Islamic Azad University, Baft",Baft,
+282,"Islamic Azad University, Izeh",Izeh,
+283,"Islamic Azad University, Bandar Gaz",Bandar Gaz,
+284,Shiraz University of Applied Science and Technology,Shiraz,
+285,Golbahar University of Science and New Technology,Mashhad,
+286,"Islamic Azad University, Andimeshk",Andimeshk,
+287,"Islamic Azad University, Dehloran",Dehloran,
+287,"Islamic Azad University, Anar",Anar,
+287,"Islamic Azad University, Ardestan",Ardestan,
+290,Higher Education Complex of Zarand,Zarand,
+291,Ahlul Bayt International University,Tehran,
+292,Nahavand University,Nahavand,
+293,"Islamic Azad University, Komijan",Komijan,
+294,"Islamic Azad University, Ferdows",Ferdows,
+294,"Islamic Azad University, Ajabshir",Ajabshir,
+296,"Islamic Azad University, Osku",Osku,
+297,"Islamic Azad University, Zarand",Zarand,
+298,"Islamic Azad University, Parsabad Moghan",Parsabad,
+299,Islamic Azad University of Golpayegan,Golpayegan,
+300,University of Garmsar,Garmsar,
+301,Isfahan Institute of Higher Education,Isfahan,
+302,"Islamic Azad University, Aligudarz",Aligoodarz,
+302,"Islamic Azad University, Ardakan",Ardakan,
+304,"Islamic Azad University, Ramhormoz",Ramhormoz,
+305,"Islamic Azad University, Hashtrood",Hashtrood,
+306,Jami Institute of Technology,Najafabad,
+307,Hazrat-e Narjes University of Rafsanjan,Rafsanjan,
+308,"Islamic Azad University, Abarkouh",Abarkuh,
+309,Iran Informatic Institute,Tehran,
+Un,Sabzevar University of New Technologies,Sabzevar,
+Un,Shahid Sattari University of Aeronautical Engineering,Tehran,
+Legend: Un Unranked,Legend: Un Unranked,Add University,
