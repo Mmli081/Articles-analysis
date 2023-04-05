@@ -15,6 +15,7 @@ from selenium import webdriver
 import re, pandas as pd
 from time import sleep
 import numpy as np
+import winsound
 
 path_to_save = "googleScholar/data/universities.csv"
 top_uni_Iran_url = "https://www.4icu.org/ir/"
@@ -40,9 +41,11 @@ def get_org_id(url):
     driver.get(url)
     html = driver.page_source
     soup = BeautifulSoup(html)
-    if not soup.find("div", attrs={"class": "gsc_1usr"}):
-        #Show you are a human:)
-        sleep(40)
+    while not soup.find("div", attrs={"class": "gsc_1usr"}):
+        #Tell them I'am not a robot! :)
+        winsound.Beep(440, 1000)
+        sleep(30)
+        soup = BeautifulSoup(html)
     rec_div = soup.find("div", attrs={"class":"gsc_instbox_sec"})
     link = rec_div.find("a") if rec_div else None
     org = re.findall(r"org=(\d+)",link["href"]) if link else []
